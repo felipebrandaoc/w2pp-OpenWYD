@@ -738,6 +738,7 @@
 	MinGroup:	0
 	MaxGroup:	0
 	Leader:		Gremlin
+	FightAction:	Bem-vindo ao servidor de desenvolvimento!
 	Follower:	Gremlin
 	RouteType:	2
 	Formation:	0
